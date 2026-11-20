@@ -6,3 +6,8 @@
 *.tfplan
 plan.json
 crash.log
+tfplan
+.DS_Store
+
+# Notas y salidas locales (nunca al repo)
+_local/
